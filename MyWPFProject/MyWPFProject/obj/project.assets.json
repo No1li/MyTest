@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\学习\\WPF\\GitHub\\MyProject\\MyTest\\MyWPFProject\\MyWPFProject\\MyWPFProject.csproj",
+      "projectUniqueName": "F:\\学习\\WPF\\GitHub\\MyProject\\B\\MyTest\\MyWPFProject\\MyWPFProject\\MyWPFProject.csproj",
       "projectName": "MyWPFProject",
-      "projectPath": "F:\\学习\\WPF\\GitHub\\MyProject\\MyTest\\MyWPFProject\\MyWPFProject\\MyWPFProject.csproj",
+      "projectPath": "F:\\学习\\WPF\\GitHub\\MyProject\\B\\MyTest\\MyWPFProject\\MyWPFProject\\MyWPFProject.csproj",
       "packagesPath": "C:\\Users\\李春雷\\.nuget\\packages\\",
-      "outputPath": "F:\\学习\\WPF\\GitHub\\MyProject\\MyTest\\MyWPFProject\\MyWPFProject\\obj\\",
+      "outputPath": "F:\\学习\\WPF\\GitHub\\MyProject\\B\\MyTest\\MyWPFProject\\MyWPFProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
